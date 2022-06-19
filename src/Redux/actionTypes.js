@@ -1,0 +1,9 @@
+// main stories data
+export const GET_MAIN_ST_DATA_REQ = "GET_MAIN_ST_DATA_REQ";
+export const GET_MAIN_ST_DATA_SUCC = "GET_MAIN_ST_DATA_SUCC";
+export const GET_MAIN_ST_DATA_FAIL = "GET_MAIN_ST_DATA_FAIL";
+
+// category wise
+export const GET_CATEGORY_DATA_REQ = "GET_CATEGORY_DATA_REQ";
+export const GET_CATEGORY_DATA_SUCC = "GET_CATEGORY_DATA_SUCC";
+export const GET_CATEGORY_DATA_FAIL = "GET_CATEGORY_DATA_FAIL";

@@ -1,10 +1,15 @@
+import { AllRoutes } from "./Components/AllRoutes";
+import SmallWithSocial from "./Components/Footer";
+import Navbar2 from "./Components/Navbar2";
 import "./styles.css";
 
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <Navbar2 />
+      <br></br>
+      <AllRoutes />
+      <SmallWithSocial />
     </div>
   );
 }
